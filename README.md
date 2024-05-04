@@ -7,6 +7,8 @@ This project utilizes Long Short-Term Memory (LSTM) networks, a type of recurren
 Development stages encompass initial data collection via webcams, where gestures are recorded and used to train the LSTM model. This is followed by refining the model through rigorous testing to ensure accuracy and responsiveness. The final product is deployed using a Streamlit web application, allowing for easy interaction and scalability.
 
 "Life-Saving Signs" is not just a technological advancement; it is a step towards inclusive communication, ensuring that the deaf and hard-of-hearing community can easily summon help and communicate distress in critical situations without barriers.
+![image](https://github.com/fyzanahammad/Life-Saving-Signs-Real-Time-Detection-of-Emergency-Indian-Sign-Language/assets/72655841/83f4fd38-1757-4f50-953a-137471aa3be2)
+
 
 ## Repository Contents
 
