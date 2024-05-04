@@ -69,3 +69,12 @@ This command starts a local web server and opens the Streamlit application in yo
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+## Acknowledgments
+
+This project utilizes the dataset "Hand Gestures for Emergency Situations: A Video Dataset based on Words from Indian Sign Language" provided by Adithya, V. & Rajesh, Reghunadhan. The dataset includes a variety of hand gestures that are critical for interpreting emergency situations through Indian Sign Language. We extend our gratitude to the authors for their contributions to the research community and their support of inclusivity through enhanced communication tools.
+
+### Citation
+If you use this dataset or aspects of this project in your research, please cite the following work:
+
+Adithya, V. & Rajesh, Reghunadhan. (2020). Hand Gestures for Emergency Situations: A Video Dataset based on Words from Indian Sign Language. Data in Brief. 31. 106016. DOI:10.1016/j.dib.2020.106016.
